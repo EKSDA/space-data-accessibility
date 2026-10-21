@@ -1,0 +1,4 @@
+https://firms.modaps.eosdis.nasa.gov/data/download/DL_FIRE_M-C61_828309.zip
+https://firms.modaps.eosdis.nasa.gov/data/download/DL_FIRE_SV-C2_828310.zip
+https://firms.modaps.eosdis.nasa.gov/data/download/DL_FIRE_SV-C2_828311.zip
+https://firms.modaps.eosdis.nasa.gov/data/download/DL_FIRE_J1V-C2_828312.zip
